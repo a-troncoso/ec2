@@ -1,0 +1,12 @@
+{
+  "name": "ec2",
+  "version": "0.0.1",
+  "description": "Proyecto app para encontrar vendedores",
+  "main": "app.js",
+  "author": "a-troncoso",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/a-troncoso/ec2.git"
+  }
+}
